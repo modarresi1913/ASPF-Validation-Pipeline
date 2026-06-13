@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated framework in your research, please cite it as:"
+authors:
+  - family-names: "Alhosseini Almodarresieh"
+    given-names: "Seyed Alireza"
+    orcid: "https://orcid.org/YOUR-ORCID-ID" # اگر شناسه ارکید دارید، اینجا قرار دهید، در غیر این صورت این خط را حذف کنید
+title: "Challenges and Solutions in Long-Form Realistic AI Filmmaking: A Survey and Framework Proposal"
+version: 4.1
+date-released: 2026-06-13
+url: "https://github.com/YOUR_USERNAME/ASPF-Validation-Pipeline"
+repository-code: "https://github.com/YOUR_USERNAME/ASPF-Validation-Pipeline"
+license: MIT
+type: software
+keywords:
+  - "Generative AI"
+  - "AI Filmmaking"
+  - "Character Consistency"
+  - "Long-Form Video Generation"
+  - "Multi-Agent Systems"
+  - "Gaussian Splatting"
+abstract: "Reference implementation of the Composite CID-Metric (cCID) and Audio and Prosodic Drift Index (APDI) for the Agentic Spatial Production Framework (ASPF), alongside the LaTeX source of the associated survey paper."
